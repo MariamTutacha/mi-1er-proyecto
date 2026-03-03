@@ -1,2 +1,2 @@
 # mi primer proyecto
-## esto es un subtitulo
+## esta es una brebe descripcion del proyecto
